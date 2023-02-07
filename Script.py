@@ -13,6 +13,7 @@ Here is the help for my COMMANDS."""
     SOURCE_TXT = """<b>NOTE:</b>
 - Lazy Princess is an open source project. 
 - Source - https://github.com/LazyDeveloperr/LazyPrincess  
+- Must Join @Kc_Cinemagalu
 
 <b>DEVS:</b>
 - <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
